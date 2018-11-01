@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fbReact</string>
+    
+    <!-- added this too -->
+    <string name="facebook_app_id">fb1200311930137919</string>
+
+    <!-- this also -->
+    <string name="fb_login_protocol_scheme">fb1200311930137919</string>
+</resources>
